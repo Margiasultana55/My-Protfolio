@@ -113,6 +113,8 @@ footer{
     }
     .link-button{
         font-size: 10px;
+        font-weight: normal;
+        word-wrap: none;
     }
     
 }
